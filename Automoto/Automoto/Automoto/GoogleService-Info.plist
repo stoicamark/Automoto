@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>341079028475-ec15iivthcul45bffucsp4eh8igcqtr7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.341079028475-ec15iivthcul45bffucsp4eh8igcqtr7</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCBupohyU-gzKbgti3mIiuPVMyQzwwj23E</string>
+	<key>GCM_SENDER_ID</key>
+	<string>341079028475</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.stoicamark.Automoto</string>
+	<key>PROJECT_ID</key>
+	<string>automoto-d2671</string>
+	<key>STORAGE_BUCKET</key>
+	<string>automoto-d2671.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:341079028475:ios:f2cfa5be60ab7486</string>
+	<key>DATABASE_URL</key>
+	<string>https://automoto-d2671.firebaseio.com</string>
+</dict>
+</plist>
