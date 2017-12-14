@@ -14,7 +14,7 @@ Az Automoto egy kávéautomatákra szabott egyszerű kuponos alkalmazás, amelyb
 #### Felhasznált technológiák
   * Autolayout
   * Hálózati kommunikáció, adatok fogadása és prezentációja
-  * Firebase adatbázis az adatok tárolásáre
+  * Firebase valósidejű no sql adatbázis az adatok tárolására 
   * Facebook autentikáció
   
 ### Képernyőképek
